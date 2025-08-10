@@ -84,5 +84,5 @@ I’m always open to collaborate or chat about tech, game development, embedded 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Keep Coding!" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThkYzZjNzQwOTk3ZTY3ZTY2YTYxZDYxZmYwMzEzODZkZDM2NmNkNyZjdD1n/3ov9jMpe3p3tWPt7mI/giphy.gif" alt="You either a one or a zero - Mr. Robot" width="200" />
 </p>
