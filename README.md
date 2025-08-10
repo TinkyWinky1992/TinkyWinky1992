@@ -47,11 +47,11 @@ I enjoy tackling challenges such as:
 
 | Project                                  | Description                                                                                      | Tech Stack                     |
 |------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------|
-| **Custom FiveM Game Server Core**        | Built a secure, scalable multiplayer game framework with custom player & inventory management. | TypeScript, Node.js, SQL        |
+| **Custom FiveM Game Server Core**        | Built a secure, scalable multiplayer game framework with custom player & inventory management. | TypeScript, Node.js, SQL, postgresql , prisma       |
 | **Assembler for Educational CPU**        | Designed a full assembler in C with symbol handling, macros, and binary output.                 | C, Assembly                    |
 | **Embedded Gift Box with Sound Player**  | Created a Raspberry Pi Pico-based box with magnetic sensor and sound playback system.           | C, Microcontrollers, DFPlayer  |
-| **Full-stack Web Apps & Telegram Bots**  | Developed React frontends and NestJS backends, with integration of SQL and NoSQL databases.     | React, NestJS, MongoDB, MySQL  |
-| **Electron Desktop App**                  | Built desktop applications with modern UI for local environments.                               | Electron, JavaScript           |
+| **Full-stack Web Apps & Telegram Bots**  | Developed React frontends and NestJS backends, with integration of SQL and NoSQL databases.     | React, NestJS, MongoDB, MySQL, postgresql , prisma |
+| **Electron Desktop App**                  | Built desktop applications with modern UI for local environments.                               | Electron, JavaScript , typescript          |
 
 ---
 
