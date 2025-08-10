@@ -72,10 +72,6 @@ I’m always open to collaborate or chat about tech, game development, embedded 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://fiverr.com/yuvalbiton" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Fiverr_logo.svg" alt="Fiverr" width="30" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:yuval@example.com">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="30" />
   </a>
@@ -84,5 +80,5 @@ I’m always open to collaborate or chat about tech, game development, embedded 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThkYzZjNzQwOTk3ZTY3ZTY2YTYxZDYxZmYwMzEzODZkZDM2NmNkNyZjdD1n/3ov9jMpe3p3tWPt7mI/giphy.gif" alt="You either a one or a zero - Mr. Robot" width="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh0emxuZGV4MHN1Z28xbmh1aTJld2RqcjNwMDYyZmp2bGplOHZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11pIIEAHWERuhi/giphy.gif" alt="You either a one or a zero - Mr. Robot" width="200" />
 </p>
